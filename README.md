@@ -2,7 +2,14 @@
 
 A portfolio of my technical work. Most of it comes from my Data Science Internship at **CloudXSystems** (summer 2026), and it also includes academic work from my coursework at Flagler College. Internship projects sit in the top-level folders below; college work lives in `college-projects/`.
 
-> **A note on the internship work:** The CloudXSystems code is proprietary, so this public repository contains written descriptions rather than source. The actual source code, Git patches with signed commit history, merged pull requests, and run output are available to prospective employers on request. Please reach out and I will share the private repository or walk through any project directly.
+> [!IMPORTANT]
+> ## Internship source code is available on request
+>
+> The CloudXSystems code is **proprietary**, so this public repository contains **written descriptions rather than source**.
+>
+> The actual **source code, Git patches with signed commit history, merged pull requests, and run output** are kept in a private repository and shared with prospective employers **on request**.
+>
+> **Please reach out** and I will share the private repository or walk through any project directly.
 
 ## Internship projects (CloudXSystems)
 
