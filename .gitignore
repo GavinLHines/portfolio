@@ -1,0 +1,8 @@
+# Internal proof artifacts kept out of the public repo (available on request)
+**/screenshots/
+*.patch
+*.json
+
+# Housekeeping
+tmpcheck/
+.DS_Store
